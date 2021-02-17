@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  margin: 0;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding: 0;
+  height: 100vh;
+  background-color: grey;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace; 
+}

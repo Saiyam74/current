@@ -1,0 +1,3 @@
+#install.sh
+sudo apt install maven
+sudo apt-get install npm
